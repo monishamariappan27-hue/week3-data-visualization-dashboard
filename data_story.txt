@@ -1,0 +1,2 @@
+Data Story:
+The dashboard provides an overview of Superstore sales performance across categories, regions, and customer segments. Technology generated the highest sales, while the Consumer segment made a significant contribution to overall revenue. Regional analysis highlights differences in sales distribution, and the monthly trend helps identify growth patterns and seasonality. These insights can support better business planning and decision-making.
